@@ -1,6 +1,7 @@
 # poiurewq.github.io
-My First Website Repo
+Welcome to Q Z's main user website repository!
 
-This repository contains my initial github site.
+This repository contains my main GitHub site. 
 
-I'm not sure if I can create other sites using this GitHub account, or if I must stick to this website URL and only add folders after it.
+It doesn't have much yet. When I've created some other Project Pages, I'll put up links to them on this site.
+
